@@ -1,6 +1,6 @@
 # A Highly efficient Pop Up Window Slide.
 
-BUIT WITH :
+BUILT WITH :
 HTML
 Js
 CSS 3
